@@ -5,7 +5,7 @@
 
 
 **career**
-2.Tutor
+1.Tutor
 3.Teacher
 4.Lecturer
 5.Researcher
@@ -13,3 +13,4 @@
 6.Pilot
 7.Mother
 8.Scientist
+9.Doctor
